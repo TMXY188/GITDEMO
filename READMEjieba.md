@@ -35,3 +35,9 @@ keywords = jieba.analyse.textrank(text, topK=5, withWeight=True, allowPOS=('n', 
 print("Top-5关键词（TextRank算法）：")
 for keyword, weight in keywords:
     print(f"{keyword}: {weight:.4f}")
+
+## 截图
+![运行的截图]("D:\git仓库\image\qqq.png")
+
+![运行的截图]("D:\git仓库\image\www.png")
+

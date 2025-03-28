@@ -46,3 +46,11 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+## 我最喜欢的管理工具是conda
+
+![环境搭建的截图]("D:\git仓库\image\xxx.png")
+
+##我可以在ide上使用自己的虚拟环境
+
+![虚拟环境](""D:\git仓库\image\yyy.png"")
